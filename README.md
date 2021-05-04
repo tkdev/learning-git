@@ -13,7 +13,7 @@ Highlights of what did I learn:
 - Setting up and configuring a repo on Github
 - Pushing and pulling changes to and from a remote repository
 ![image](https://user-images.githubusercontent.com/8579347/117078768-705c4f80-ad32-11eb-879a-fc3addcad81f.png)
-<img src="https://user-images.githubusercontent.com/8579347/117078768-705c4f80-ad32-11eb-879a-fc3addcad81f.png" width="446">
+<img src="https://user-images.githubusercontent.com/8579347/117078768-705c4f80-ad32-11eb-879a-fc3addcad81f.png" width="446" />
 - Working on branches 
 ![image](https://user-images.githubusercontent.com/8579347/117078689-4440ce80-ad32-11eb-9dc6-448d3d177964.png)
 - Pull requests
