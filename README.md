@@ -10,9 +10,13 @@ Highlights of what did I learn:
 - Use git with commands in terminal
 - Initialise git repo
 - Staging and committing changes
+- Setting up and configuring a repo on Github
 - Pushing and pulling changes to and from a remote repository
+![image](https://user-images.githubusercontent.com/8579347/117078768-705c4f80-ad32-11eb-879a-fc3addcad81f.png)
 - Working on branches 
+![image](https://user-images.githubusercontent.com/8579347/117078689-4440ce80-ad32-11eb-9dc6-448d3d177964.png)
 - Pull requests
+![image](https://user-images.githubusercontent.com/8579347/117078662-30956800-ad32-11eb-99ab-55ed86cf1c6c.png)
 - Resolving conflicts
 - Using rebase
-- Setting up and configuring a repo on Github
+
