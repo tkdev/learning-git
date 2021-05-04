@@ -6,7 +6,7 @@
 ![Git-Github course logo](https://user-images.githubusercontent.com/8579347/116434856-b3a25400-a842-11eb-91f0-e33ca7d0f680.png)
 
 
-Highlights of what did I learnt:
+Highlights of what did I learn:
 - Use git with commands in terminal
 - Initialise git repo
 - Staging and committing changes
