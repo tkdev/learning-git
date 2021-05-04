@@ -15,10 +15,10 @@ Highlights of what did I learn:
 <img src="https://user-images.githubusercontent.com/8579347/117078768-705c4f80-ad32-11eb-879a-fc3addcad81f.png" width="446"/>
 
 - Working on branches 
-<img src="https://user-images.githubusercontent.com/8579347/117078689-4440ce80-ad32-11eb-9dc6-448d3d177964.png" width="446"/>
+<img src="https://user-images.githubusercontent.com/8579347/117078689-4440ce80-ad32-11eb-9dc6-448d3d177964.png" width="700"/>
 
 - Pull requests
-<img src="https://user-images.githubusercontent.com/8579347/117078662-30956800-ad32-11eb-99ab-55ed86cf1c6c.png" width="446"/>
+<img src="https://user-images.githubusercontent.com/8579347/117078662-30956800-ad32-11eb-99ab-55ed86cf1c6c.png" width="550"/>
 
 - Resolving conflicts
 - Using rebase
